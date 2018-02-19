@@ -3,11 +3,14 @@ A way to identiy what is in a picture sent by a text. This is a simple flask app
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+I created this project to see how to interface the twilio api and the clarfai api and do something concrete with them for fun. I learned a bunch about how twilio recieves and sends SMS and MMS responses. Also, how the Clarfai returns results and how to understand the resulting concepts. The final thing I learned was how to design text based interfaces.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+First clone this repository.
+
+Then copy the env.example and paste in your clarfai credentials. You can signup at https://clarifai.com/developer/account/signup/
+
 
 ## API Reference
 
