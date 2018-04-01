@@ -6,7 +6,7 @@ import logging
 # The client takes the `API_KEY` you created in your Clarifai
 # account. You can set these variables in your environment as:
 
-clarifai_app = ClarifaiApp()
+clarifai_app = ClarifaiApp() # Put API_KEY in parenthesis. 
 
 app = Flask(__name__)
 
