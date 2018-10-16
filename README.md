@@ -1,4 +1,6 @@
 # mms2text
+[![Build Status](https://travis-ci.com/zitterbewegung/mms2text.svg?branch=master)](https://travis-ci.com/zitterbewegung/mms2text)
+
 A way to identiy what is in a picture sent by a text. This is a simple flask app that takes a picture from an MMS and then classifies what is in the image. We use Twilio to understand what is in an MMS and to send the SMS response. Then we use Clarfai to understand what is in the image and we return the top three responses.
 
 ## Motivation
