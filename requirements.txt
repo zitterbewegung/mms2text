@@ -4,7 +4,7 @@ clarifai==2.0.32
 click==6.7
 configparser==3.5.0
 enum34==1.1.6
-Flask==0.12.2
+Flask==1.0
 future==0.15.2
 idna==2.6
 itsdangerous==0.24
@@ -26,7 +26,7 @@ clarifai==2.0.32
 click==6.7
 configparser==3.5.0
 enum34==1.1.6
-Flask==0.12.2
+Flask==1.0
 foreman==0.9.7
 future==0.15.2
 idna==2.6
