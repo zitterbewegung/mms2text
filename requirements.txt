@@ -18,7 +18,7 @@ pytz==2017.2
 requests==2.13.0
 six==1.11.0
 twilio==6.7.0
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.15.3
 certifi==2017.7.27.1
 chardet==3.0.4
@@ -42,5 +42,5 @@ requests==2.13.0
 requests-futures==0.9.7
 six==1.11.0
 twilio==6.7.0
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.15.3
